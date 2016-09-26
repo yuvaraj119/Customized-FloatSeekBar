@@ -71,7 +71,7 @@ public class FloatSeekBar extends SeekBar {
         setProgress(Math.round(value));
     }
 
-    private void applyAttrs(AttributeSet attrs) {
+    /*private void applyAttrs(AttributeSet attrs) {
         TypedArray a = getContext().obtainStyledAttributes(attrs, R.styleable.FloatSeekBar);
         final int N = a.getIndexCount();
         for (int i = 0; i < N; ++i) {
@@ -86,5 +86,5 @@ public class FloatSeekBar extends SeekBar {
             }
         }
         a.recycle();
-    }
+    }*/
 }
