@@ -1,7 +1,7 @@
 # Customized-FloatSeekBar
-SeekBar with Float values
+### SeekBar with Float values.
 
-![GIF](https://github.com/yuvaraj119/Customized-FloatSeekBar/blob/master/floatseekbar.gif)
+<img src="https://github.com/yuvaraj119/Customized-FloatSeekBar/blob/master/floatseekbar.gif" width="480" height="780">
 
 # How to use
 
