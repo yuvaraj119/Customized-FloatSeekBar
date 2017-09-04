@@ -25,7 +25,13 @@ jobs:
       - store_artifacts:
           path: app/build/outputs
           destination: outputs
+<<<<<<< HEAD
       #- run:
       #    command: cp -r app/build/outputs outputs
+=======
+      - run:
+          name: Copy Artifacts
+          command: cp -r app/build/outputs app/build/outputs
+>>>>>>> origin/master
       - store_test_results:
           path: app/build/test-results
