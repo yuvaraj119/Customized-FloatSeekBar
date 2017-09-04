@@ -25,7 +25,5 @@ jobs:
       - store_artifacts:
           path: app/build/reports
           destination: reports
-      - store_artifacts:
-          command: cp -r app/build/outputs $CIRCLE_ARTIFACTS
       - store_test_results:
           path: app/build/test-results
