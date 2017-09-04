@@ -1,4 +1,7 @@
 version: 2
+dependencies:
+  override:
+     - chmod +x gradlew
 jobs:
   build:
     working_directory: ~/code
