@@ -1,5 +1,11 @@
 language: android
 install: ant deps
+
+dependencies:
+  override:
+    - chmod +x gradlew
+    - ./gradlew dependencies
+
 android:
   components:
     # Uncomment the lines below if you want to
