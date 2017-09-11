@@ -81,5 +81,3 @@
 # Author
 Yuvaraj Kumar Yadav K :point_right: https://github.com/yuvaraj119
 
-# Disclaimer
-This is not an official Google project.
