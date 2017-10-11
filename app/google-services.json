@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "898362959775",
+    "firebase_url": "https://float-seekbar.firebaseio.com",
+    "project_id": "float-seekbar",
+    "storage_bucket": "float-seekbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898362959775:android:b7cd335d7d32cbc8",
+        "android_client_info": {
+          "package_name": "com.yuvaraj.floatseekbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898362959775-jrdhl878en6hsn1e1hphgdaojbjpbftv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UUiQLBn4gsJktgZWWdz6IJPj5l1asms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
